@@ -5,12 +5,12 @@ const CONFIG = {
 
     floatingEmojis: {
         hearts: ['💖', '💝', '💗', '💓'],
-        bears: ['🧸','😽']
+        bears: ['😻','😽']
     },
 
     questions: {
         first: {
-            text: "Харесва ли ти да сме заедно така, както сме? 😊",
+            text: "Харесва ли ти да сме заедно? 😊",
             yesBtn: "Много",
             noBtn: "Хмм 🤔",
             secretAnswer: "И на мен ми е много хубаво с теб ❤️"
